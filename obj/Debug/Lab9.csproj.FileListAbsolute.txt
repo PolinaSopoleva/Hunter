@@ -1,0 +1,10 @@
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\obj\Debug\Lab9.csprojAssemblyReference.cache
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\obj\Debug\Lab9.FormLab9.resources
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\obj\Debug\Lab8.exe
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\obj\Debug\Lab8.pdb
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\bin\Debug\Lab8.exe
+C:\Users\Илона\Documents\КПИ\Лаби\КГтаМ\9\копія\Lab8\bin\Debug\Lab8.pdb
